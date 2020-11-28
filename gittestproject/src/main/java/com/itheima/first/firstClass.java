@@ -9,4 +9,8 @@ public class firstClass {
         System.out.println("hello world");
         System.out.println("hello world");
     }
+    public void test01(){
+        int i=0;
+        i+=10;
+    }
 }
