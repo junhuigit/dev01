@@ -10,5 +10,8 @@ public class FirstClass {
     public void test1(){
         System.out.println("test01");
     }
+    public void test2(){
+        System.out.println("test02");
+    }
 
 }
