@@ -2,7 +2,7 @@ package com.itheima;
 
 public class test001 {
     public static void main(String[] args) {
-        System.out.println("1111test001");
+        System.out.println("2222test001");
         System.out.println("test002");
         System.out.println("test003");
         System.out.println("clone");
