@@ -6,5 +6,6 @@ public class test001 {
         System.out.println("test002");
         System.out.println("test003");
         System.out.println("clone");
+        System.out.println("clone2");
     }
 }
