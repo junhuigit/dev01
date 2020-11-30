@@ -11,7 +11,5 @@ public class test001 {
         System.out.println("clone4");
 
     }
-    public void test002(){
-        System.out.println("clone5");
-    }
+
 }
