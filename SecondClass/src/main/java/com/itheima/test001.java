@@ -14,6 +14,9 @@ public class test001 {
     public void test01(){
         System.out.println("test002");
     }
+    public void test02(){
+        System.out.println("test003");
+    }
 
 
 }
