@@ -9,7 +9,9 @@ public class test001 {
         System.out.println("clone2");
         System.out.println("clone3");
         System.out.println("clone4");
-
     }
 
+    public void test111(){
+        System.out.println("test1111");
+    }
 }
